@@ -5,9 +5,7 @@
   <a href="https://www.linkedin.com/in/sandeshcloud/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sandesh%20Kandel-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:sandeshcloud@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-sandeshcloud@gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
+  <img alt="Dark/Light Mode Toggle" src="https://img.shields.io/badge/Theme-Dark/Light%20Toggle-FFD700?style=for-the-badge&logo=github" />
 </p>
 
 ---
@@ -15,8 +13,7 @@
 🚀 **About Me**
 
 - 🌍 Based in **Pokhara, Nepal**
-- 🧠 Currently mastering **automated app deployments** with containers, CI/CD, and the cloud
-- 🛠️ DevOps newbie with a **pro mindset**
+- 🧠 Focused on mastering **automated app deployments** with containers, CI/CD pipelines, and cloud infrastructure
 - 🎯 Mission: Scale apps like a boss, one pipeline at a time
 
 ---
@@ -57,4 +54,5 @@
 ---
 
 🔥 Let's build, break, and rebuild better — in the cloud ☁️
+
 
