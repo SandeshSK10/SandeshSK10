@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/sandeshcloud/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sandesh%20Kandel-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <img alt="Dark/Light Mode Toggle" src="https://img.shields.io/badge/Theme-Dark/Light%20Toggle-FFD700?style=for-the-badge&logo=github" />
+  
 </p>
 
 ---
