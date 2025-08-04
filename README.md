@@ -12,7 +12,7 @@
 
 🚀 **About Me**
 
-- 🌍 Based in **Pokhara, Nepal**
+- 🌍 Based in **Auckland,New Zealand**
 - 🧠 Focused on mastering **automated app deployments** with containers, CI/CD pipelines, and cloud infrastructure
 - 🎯 Mission: Scale apps like a boss, one pipeline at a time
 
